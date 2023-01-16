@@ -1,0 +1,2 @@
+# AD-skriptid
+Mihhail - Skriptid
